@@ -23,3 +23,6 @@ root flight_length.cpp
 
 Task3 can simple be executed using Live server extension of Vscode or by simpling open the ```index.html``` file in a browser.
 
+##  Authors
+-   [Ayomide Ajayi](https://github.com/ayo-ajayi)
+-   [Dr Sergey Dmitrievsky](https://github.com/dmitr25)
